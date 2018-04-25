@@ -4,9 +4,18 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-Emma Goldman (June 27 [O.S. June 15], 1869 – May 14, 1940) was an anarchist political activist and writer. She played a pivotal role in the development of anarchist political philosophy in North America and Europe in the first half of the 20th century.
+Casey Brezik, an accused anarchist assassin from the Kansas City area who is charged with slashing the throat of the Dean of Metropolitan Community College-Penn Valley in a plot to attack the Governor of Missouri, Jay Nixon during a talk at the college. (Nixon later canceled.) Casey is currently being held by the state of Missouri for 12 years on each of three counts – assault, and two armed criminal action charges – and seven years on a second count of assault. All sentences will run concurrently.
 
-Born in Kovno, Russian Empire (present-day Kaunas, Lithuania) to a Jewish family, Goldman emigrated to the United States in 1885.[2] Attracted to anarchism after the Haymarket affair, Goldman became a writer and a renowned lecturer on anarchist philosophy, women's rights, and social issues, attracting crowds of thousands.[2] She and anarchist writer Alexander Berkman, her lover and lifelong friend, planned to assassinate industrialist and financier Henry Clay Frick as an act of propaganda of the deed. Frick survived the attempt on his life in 1892 and Berkman was sentenced to 22 years in prison. Goldman was imprisoned several times in the years that followed, for "inciting to riot" and illegally distributing information about birth control. In 1906, Goldman founded the anarchist journal Mother Earth.
+Casey has resided in a few different places during his incarceration. Currently he’s at the Northeast Correctional Center (NCC) in Bowling Green, Missouri, but is expecting to be transferred soon.
 
-**In 1917, Goldman and Berkman were sentenced to two years in jail for conspiring to "induce persons not to register" for the newly instated draft.** After their release from prison, they were arrested—along with hundreds of others—and deported to Russia. Initially supportive of that country's October Revolution which brought the Bolsheviks to power, Goldman reversed her opinion in the wake of the Kronstadt rebellion and denounced the Soviet Union for its violent repression of independent voices. In 1923, she published a book about her experiences, My Disillusionment in Russia. While living in England, Canada, and France, she wrote an autobiography called Living My Life. After the outbreak of the Spanish Civil War, she traveled to Spain to support the anarchist revolution there. She died in Toronto on May 14, 1940, aged 70.
+He recently got married to a woman being held in another Missouri prison. He’s studying calculus so he can go to school to be an aerospace engineer once he’s released. He goes before the parole board November 2018. He’s unsure of exactly when he gets out, but knows he isn’t eligible until November 2020. He’s currently saving his money (and asking for help) to afford a cheap vehicle when he gets out in order to transport himself to work and school.  His intentions are to parole out to the St. Louis area and attending a community college until he gets his basic credits and can transfer to a university. His eyes are set on the Missouri University of Science and Technology.
+
+Casey suffers from depression and has a history of schizophrenia. he describes himself as socially awkward and says he often feels misunderstood. He has a kind heart and regrets having inadvertently hurt some of those who have tried to reach out to him while doing his time. He hopes you can forgive him. He looks forward to getting out relatively soon and getting to see all of those who have shown him support over the years. He thanks you all.
+
+WRITE TO CASEY!
+Address
+Casey Brezik #1154765
+Algoa Correctional Center
+8501 No More Victims Road
+Jefferson City, MO 65101
 
